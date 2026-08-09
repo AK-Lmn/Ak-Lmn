@@ -133,12 +133,6 @@ Currently focused on full-stack web development, small utilities, and open-sourc
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AK-Lmn&show_icons=true&theme=transparent&hide_border=true&title_color=a2e3c4&icon_color=a2e3c4&text_color=b3bfb8&ring_color=3c493f&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Lmn&layout=compact&theme=transparent&hide_border=true&title_color=a2e3c4&text_color=b3bfb8&langs_count=6" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=AK-Lmn&theme=transparent&hide_border=true&ring=a2e3c4&fire=a2e3c4&currStreakLabel=b3bfb8&sideLabels=b3bfb8&dates=7e8d85&currStreakNum=f0f7f4&sideNums=f0f7f4&stroke=3c493f" />
 
 </div>
