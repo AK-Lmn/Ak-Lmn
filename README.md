@@ -220,7 +220,7 @@ Currently focused on full-stack web development, small utilities, and open-sourc
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=1000&color=7E8D85&center=true&vCenter=true&repeat=true&width=440&lines=github.com%2FAK-Lmn+%2F+building+things+that+work" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=1000&color=7E8D85&center=true&vCenter=true&repeat=true&width=600&lines=github.com%2FAK-Lmn+%2F+building+things+that+work" alt="footer" />
 
 <br/><br/>
 
