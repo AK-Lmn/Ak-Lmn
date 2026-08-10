@@ -24,9 +24,10 @@
 │  > AK-Lmn — I build web tools that solve specific problems.  │
 │                                                              │
 │  ~ $ current-stack                                           │
-│  > frontend : Vue.js · JavaScript · HTML · CSS               │
-│  > backend  : PHP · Laravel · Python                         │
-│  > infra    : Firebase · MySQL · Git                         │
+│  > languages : JS · TS · Python · C++ · C# · Kotlin · PHP   │
+│  > frontend  : React · Vue · Vite · Expo · HTML · CSS        │
+│  > backend   : Laravel · PHP · Firebase · Supabase           │
+│  > tools     : Git · Vercel · Heroku · VS Code              │
 │                                                              │
 │  ~ $ current-focus                                           │
 │  > shipping full-stack web apps                              │
@@ -86,8 +87,8 @@ Currently focused on full-stack web development, small utilities, and open-sourc
         <img src="https://img.shields.io/badge/JavaScript-%233c493f?style=flat-square&logo=javascript&logoColor=%23a2e3c4" />
         <img src="https://img.shields.io/badge/Web-%233c493f?style=flat-square&logo=html5&logoColor=%23a2e3c4" />
       </p>
-      <a href="https://pindrop.xo.je/">
-        <img src="https://img.shields.io/badge/→ Live-pindrop.xo.je-%233c493f?style=flat-square&labelColor=%233c493f&color=%23a2e3c4" />
+      <a href="https://zio-pindrop-c5df46d05b1d.herokuapp.com/">
+        <img src="https://img.shields.io/badge/→ Live-zio--pindrop.herokuapp.com-%233c493f?style=flat-square&labelColor=%233c493f&color=%23a2e3c4" />
       </a>
     </td>
   </tr>
@@ -101,25 +102,38 @@ Currently focused on full-stack web development, small utilities, and open-sourc
 
 ### `> tech-stack --list`
 
+**Languages**
+
+<img src="https://img.shields.io/badge/JavaScript-%233c493f?style=flat-square&logo=javascript&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/TypeScript-%233c493f?style=flat-square&logo=typescript&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/Python-%233c493f?style=flat-square&logo=python&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/C++-%233c493f?style=flat-square&logo=cplusplus&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/C%23-%233c493f?style=flat-square&logo=csharp&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/Kotlin-%233c493f?style=flat-square&logo=kotlin&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/PHP-%233c493f?style=flat-square&logo=php&logoColor=%23a2e3c4" />
+
 **Frontend**
 
+<img src="https://img.shields.io/badge/React-%233c493f?style=flat-square&logo=react&logoColor=%23a2e3c4" />
 <img src="https://img.shields.io/badge/Vue.js-%233c493f?style=flat-square&logo=vuedotjs&logoColor=%23a2e3c4" />
-<img src="https://img.shields.io/badge/JavaScript-%233c493f?style=flat-square&logo=javascript&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/Vite-%233c493f?style=flat-square&logo=vite&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/Expo-%233c493f?style=flat-square&logo=expo&logoColor=%23a2e3c4" />
 <img src="https://img.shields.io/badge/HTML5-%233c493f?style=flat-square&logo=html5&logoColor=%23a2e3c4" />
 <img src="https://img.shields.io/badge/CSS3-%233c493f?style=flat-square&logo=css3&logoColor=%23a2e3c4" />
 
 **Backend**
 
-<img src="https://img.shields.io/badge/PHP-%233c493f?style=flat-square&logo=php&logoColor=%23a2e3c4" />
 <img src="https://img.shields.io/badge/Laravel-%233c493f?style=flat-square&logo=laravel&logoColor=%23a2e3c4" />
-<img src="https://img.shields.io/badge/Python-%233c493f?style=flat-square&logo=python&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/Firebase-%233c493f?style=flat-square&logo=firebase&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/Supabase-%233c493f?style=flat-square&logo=supabase&logoColor=%23a2e3c4" />
 
-**Tools & Infrastructure**
+**Tools & Deployment**
 
 <img src="https://img.shields.io/badge/Git-%233c493f?style=flat-square&logo=git&logoColor=%23a2e3c4" />
 <img src="https://img.shields.io/badge/GitHub-%233c493f?style=flat-square&logo=github&logoColor=%23a2e3c4" />
-<img src="https://img.shields.io/badge/Firebase-%233c493f?style=flat-square&logo=firebase&logoColor=%23a2e3c4" />
-<img src="https://img.shields.io/badge/MySQL-%233c493f?style=flat-square&logo=mysql&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/Vercel-%233c493f?style=flat-square&logo=vercel&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/VS_Code-%233c493f?style=flat-square&logo=visualstudiocode&logoColor=%23a2e3c4" />
+<img src="https://img.shields.io/badge/Photoshop-%233c493f?style=flat-square&logo=adobephotoshop&logoColor=%23a2e3c4" />
 
 </div>
 
