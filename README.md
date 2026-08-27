@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=180&section=header&text=AK-Lmn&fontSize=64&fontColor=e8c97e&fontAlignY=45&desc=student%20%2F%20tinkerer%20%2F%20PH&descSize=15&descAlignY=68&descColor=6b7280&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=180&section=header&text=AK-Lmn&fontSize=64&fontColor=e8c97e&fontAlignY=45&desc=stude[...]" 
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=3500&pause=1000&color=E8C97E&center=true&vCenter=true&repeat=true&width=500&lines=still+learning.+always+building.;random+experiments+that+sometimes+work." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=3500&pause=1000&color=E8C97E&center=true&vCenter=true&repeat=true&width=500&lines=still+learning.+alw[...]" 
 
 </div>
 
@@ -142,14 +142,6 @@ Simple savings tracker in Philippine Peso. Single-page, no backend.
 <br/>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AK-Lmn&theme=dark&hide_border=true&background=0d1117&ring=e8c97e&fire=e8c97e&currStreakLabel=e8c97e&sideLabels=6b7280&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AK-Lmn&bg_color=0d1117&color=e8c97e&line=1a1f2e&point=e8c97e&area=true&area_color=e8c97e&hide_border=true&custom_title=contribution+graph" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AK-Lmn/AK-Lmn/output/profile-night-rainbow.svg" />
