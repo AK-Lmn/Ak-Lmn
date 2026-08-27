@@ -1,4 +1,3 @@
-name=.github/workflows/recent-activity.yml
 name: Update recent activity
 
 on:
@@ -24,16 +23,11 @@ jobs:
       - name: Update recent activity in README
         uses: jamesgeorge007/github-activity-readme@v2
         with:
-          # token used to commit changes
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          # README path to update
           target-file: README.md
-          # Markers in your README
           start-marker: '<!--RECENT_ACTIVITY:start-->'
           end-marker: '<!--RECENT_ACTIVITY:end-->'
-          # Maximum number of items to insert (adjust as desired)
           max-entries: 20
-          # Include these activity types
           include-commits: true
-          include-pulls: true
-          include-issues: true
+          include-pulls: true*
+
