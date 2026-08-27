@@ -1,0 +1,33 @@
+name: Update recent activity
+
+on:
+  schedule:
+    # daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README Recent Activity
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Update recent activity in README
+        uses: jamesgeorge007/github-activity-readme@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          target-file: README.md
+          start-marker: '<!--RECENT_ACTIVITY:start-->'
+          end-marker: '<!--RECENT_ACTIVITY:end-->'
+          max-entries: 20
+          include-commits: true
+          include-pulls: true*
+
