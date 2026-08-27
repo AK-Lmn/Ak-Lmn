@@ -152,9 +152,9 @@ Simple savings tracker in Philippine Peso. Single-page, no backend.
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AK-Lmn/AK-Lmn/output/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AK-Lmn/AK-Lmn/output/profile-3d-contrib/profile-gitblock.svg" />
-  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/AK-Lmn/AK-Lmn/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AK-Lmn/AK-Lmn/output/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AK-Lmn/AK-Lmn/output/profile-gitblock.svg" />
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/AK-Lmn/AK-Lmn/output/profile-night-rainbow.svg" />
 </picture>
 
 </div>
