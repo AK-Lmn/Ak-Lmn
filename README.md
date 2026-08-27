@@ -1,18 +1,6 @@
-<div align="center">
+# AK-Lmn
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=180&section=header&text=AK-Lmn&fontSize=64&fontColor=e8c97e&fontAlignY=45&desc=stude[...]" 
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=3500&pause=1000&color=E8C97E&center=true&vCenter=true&repeat=true&width=500&lines=still+learning.+alw[...]" 
-
-</div>
-
-<br/>
+Student. I build small web apps, tools, and experiments.
 
 ---
 
@@ -31,7 +19,7 @@ Student. I make random stuff — mostly web apps, some tools, the occasional exp
 <td width="50%" valign="top">
 
 **[Libriq](https://github.com/AK-Lmn/Libriq)**
-Personal book tracker. Cloud sync, offline PWA, reading stats, notes. Probably my most complete project so far.
+Personal book tracker. Cloud sync, offline PWA, reading stats, notes.
 
 ![HTML](https://img.shields.io/badge/HTML-1a1f2e?style=flat-square&logo=html5&logoColor=e8c97e)
 ![CSS](https://img.shields.io/badge/CSS-1a1f2e?style=flat-square&logo=css3&logoColor=e8c97e)
@@ -44,7 +32,7 @@ Personal book tracker. Cloud sync, offline PWA, reading stats, notes. Probably m
 <td width="50%" valign="top">
 
 **[ChemKit](https://github.com/AK-Lmn/ChemKit)**
-Chemistry tool suite for students. Started as a capstone project, rebuilt into something cleaner. Element explorer, mole calculator, gas laws, pH, equation balancer.
+Chemistry tool suite for students: element explorer, mole calculator, gas laws, pH, equation balancer.
 
 ![React](https://img.shields.io/badge/React-1a1f2e?style=flat-square&logo=react&logoColor=e8c97e)
 ![Vite](https://img.shields.io/badge/Vite-1a1f2e?style=flat-square&logo=vite&logoColor=e8c97e)
