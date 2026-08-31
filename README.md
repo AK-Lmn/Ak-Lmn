@@ -107,6 +107,10 @@ Simple savings tracker in Philippine Peso. Single-page, no backend.
 <br/>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#10](https://github.com/sophie-nguyenthuthuy/repro200/pull/10) in [sophie-nguyenthuthuy/repro200](https://github.com/sophie-nguyenthuthuy/repro200)
+2. 💪 Opened PR [#9](https://github.com/sophie-nguyenthuthuy/repro200/pull/9) in [sophie-nguyenthuthuy/repro200](https://github.com/sophie-nguyenthuthuy/repro200)
+3. 💪 Opened PR [#8](https://github.com/sophie-nguyenthuthuy/repro200/pull/8) in [sophie-nguyenthuthuy/repro200](https://github.com/sophie-nguyenthuthuy/repro200)
+4. 🗣 Commented on [#7](https://github.com/sophie-nguyenthuthuy/repro200/issues/7#issuecomment-5230413190) in [sophie-nguyenthuthuy/repro200](https://github.com/sophie-nguyenthuthuy/repro200)
 <!--END_SECTION:activity-->
 
 <br/>
