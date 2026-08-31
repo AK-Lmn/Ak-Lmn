@@ -1,15 +1,3 @@
-# AK-Lmn
-
-Student. I build small web apps, tools, and experiments.
-
----
-
-### about
-
-Student. I make random stuff — mostly web apps, some tools, the occasional experiment that actually goes somewhere.
-
----
-
 ### projects
 
 <br/>
