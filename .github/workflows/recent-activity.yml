@@ -29,5 +29,4 @@ jobs:
           end-marker: '<!--RECENT_ACTIVITY:end-->'
           max-entries: 20
           include-commits: true
-          include-pulls: true*
-
+          include-pulls: true
