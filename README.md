@@ -106,8 +106,8 @@ Simple savings tracker in Philippine Peso. Single-page, no backend.
 
 <br/>
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br/>
 

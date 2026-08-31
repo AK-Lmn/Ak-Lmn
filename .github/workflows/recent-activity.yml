@@ -21,12 +21,9 @@ jobs:
           persist-credentials: true
 
       - name: Update recent activity in README
-        uses: jamesgeorge007/github-activity-readme@v2
+        uses: jamesgeorge007/github-activity-readme@v0.5.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          target-file: README.md
-          start-marker: '<!--RECENT_ACTIVITY:start-->'
-          end-marker: '<!--RECENT_ACTIVITY:end-->'
-          max-entries: 20
-          include-commits: true
-          include-pulls: true
+          TARGET_FILE: README.md
+          MAX_LINES: 20
